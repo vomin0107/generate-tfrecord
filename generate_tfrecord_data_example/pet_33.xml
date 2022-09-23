@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>pet_33.jpg</filename>
+	<path>C:\Users\hong0\PycharmProjects\image-scrapping\images\&#48152;&#47140;&#46041;&#47932;_33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>340</width>
+		<height>340</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pet</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>2</ymin>
+			<xmax>307</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

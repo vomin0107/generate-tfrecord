@@ -1,0 +1,75 @@
+item {
+    name: "band",
+    id: 1,
+    display_name: "band"
+}
+item {
+    name: "remote_control",
+    id: 2,
+    display_name: "remote_control"
+}
+item {
+    name: "multi_outlet",
+    id: 3,
+    display_name: "multi_outlet"
+}
+item {
+    name: "pet",
+    id: 4,
+    display_name: "pet"
+}
+item {
+    name: "poo_pad",
+    id: 5,
+    display_name: "poo_pad"
+}
+item {
+    name: "laundry",
+    id: 6,
+    display_name: "laundry"
+}
+item {
+    name: "slipper",
+    id: 7,
+    display_name: "slipper"
+}
+item {
+    name: "chair_legs",
+    id: 8,
+    display_name: "chair_legs"
+}
+item {
+    name: "toy",
+    id: 9,
+    display_name: "toy"
+}
+item {
+    name: "electric_wire",
+    id: 10,
+    display_name: "electric_wire"
+}
+item {
+    name: "stand",
+    id: 11,
+    display_name: "stand"
+}
+item {
+    name: "poo",
+    id: 12,
+    display_name: "poo"
+}
+item {
+    name: "curtain",
+    id: 13,
+    display_name: "curtain"
+}
+item {
+    name: "stationary",
+    id: 14,
+    display_name: "stationary"
+}
+item {
+    name: "smart_phone",
+    id: 15,
+    display_name: "smart_phone"
+}
